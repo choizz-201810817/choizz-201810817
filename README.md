@@ -1,4 +1,5 @@
-### Data Scientist "Choi Seung Bum"
+## "Choi Seung Bum"
+###  -Data Scientist- 
 
 <!--
 **choizz-201810817/choizz-201810817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
