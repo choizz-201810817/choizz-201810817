@@ -26,9 +26,12 @@ Here are some ideas to get you started:
 ![TENSORFLOW](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
 ![PYTORCH](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![KERAS](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)<br>
+
 ![Google_Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)<br>
+
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
@@ -36,4 +39,3 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)
 
-#F37626
