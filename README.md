@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![PYTHON](https://img.shields.io/badge/-python-3776AB?style=flat&logo=Python&logoColor=white)
+![TENSORFLOW](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
