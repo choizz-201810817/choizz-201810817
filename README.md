@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![TENSORFLOW](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
 ![PYTORCH](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![KERAS](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)<br>
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)
 
 
