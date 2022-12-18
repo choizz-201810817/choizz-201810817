@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![TENSORFLOW](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
 ![PYTORCH](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![KERAS](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)<br>
-![Google_Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=Google_Colab&logoColor=white)
+![Google_Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)
