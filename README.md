@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 ![PYTORCH](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Llearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 
