@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 ![DOCKER](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)<br>
 ![Google_Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)<br>
+![VisualStudioCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=VisualStudio&logoColor=white)<br>
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
