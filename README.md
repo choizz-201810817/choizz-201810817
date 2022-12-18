@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![PYTHON](https://img.shields.io/badge/-python-3776AB?style=flat&logo=Python&logoColor=white)
-![TENSORFLOW](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
-![PYTORCH](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![TENSORFLOW](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
+![PYTORCH](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
