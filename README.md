@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![PYTHON]((https://img.shields.io/badge/-python-3776AB?style=flat&logo=Python&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-python-3776AB?style=flat&logo=Python&logoColor=white)
