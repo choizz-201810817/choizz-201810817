@@ -1,3 +1,4 @@
+<div align="center">
 ## "Choi Seung Bum"
 ###  -Data Scientist- 
 
@@ -41,3 +42,4 @@ Here are some ideas to get you started:
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)
 
+</div>
