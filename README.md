@@ -1,7 +1,7 @@
 
 ## "Choi Seung Bum"
 ###  -Data Scientist- 
-<div align="center">
+
 <!--
 **choizz-201810817/choizz-201810817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I can handle..
+
+<div align="center">
 
 ![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)<br>
